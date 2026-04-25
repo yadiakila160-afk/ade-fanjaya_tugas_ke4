@@ -1,7 +1,7 @@
 # Pertemuan 4 - Struktur Kontrol Percabangan
 
-**Nama:** Muh. Ardiansyah  
-**NIM:** IK2411019  
+**Nama:** ADE FANJAYA 
+**NIM:** IK2411033 
 **Kelas:** Reguler  
 **Mata Kuliah:** Pemrograman Basis Data  
 **Dosen:** Abdul Malik, S.Kom., M.Cs. 
@@ -34,12 +34,12 @@ Tugas pertemuan ke-4 ini membahas penggunaan struktur kontrol percabangan di MyS
 ## Daftar File di Repository
 
 ```
-pbasisdata-pertemuan4-muh-ardiansyah-IK2411019/
+pbasisdata-pertemuan4-ADE FANJAYA-IK2411033/
 ├── README.md
 ├── kode_sql/
 │   └── pertemuan4_IK2411019.sql
 └── laporan/
-    └── laporan_analisis_pertemuan4_IK2411019.pdf
+    └── laporan_analisis_pertemuan4_IK2411033.pdf
 ```
 
 ### Penjelasan File
