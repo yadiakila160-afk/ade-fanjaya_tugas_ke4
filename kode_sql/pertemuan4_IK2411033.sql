@@ -1,6 +1,6 @@
 -- Kuis dan Latihan Pertemuan 4 - Struktur Kontrol Percabangan
--- Nama  : Muh. Ardiansyah
--- NIM   : IK2411019
+-- Nama  : ADE FANJAYA
+-- NIM   : IK24110133
 -- Kelas : Reguler
 -- Mata Kuliah : Pemrograman Basis Data
 -- Dosen : Abdul Malik, S.Kom., M.Cs.
